@@ -13,7 +13,9 @@
 
 ##
 
+
 <div> 
-  <a href = "mailto:henrique@martinsdahora.com.br"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henriquedahora/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:henrique@martinsdahora.com.br"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank" width="100px" height="25px"></a>
+  <a href="https://www.linkedin.com/in/henriquedahora/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="100px" height="25px"></a>
+  <a href="https://curriculodohenrique.dev.br" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" width="100px" height="25px"></a> 
 </div>
