@@ -20,6 +20,7 @@
 </div>
 
 ##
+
 Olá, sejam bem-vindos ao meu perfil no Github!
 
 Vou falar um pouco sobre mim ok?
@@ -33,3 +34,5 @@ Além do conhecimento em redes e segurança da informação, também gosto muito
 Acredito muito que cada vez mais nós profissionais de tecnologia, precisaremos entender mais de pessoas, pois no final das contas, a tecnologia só faz sentido porque tem pessoas que utilizam a tecnologia no seu dia a dia. E dessa necessidade de entender um pouco mais o ser humano, resolvi embarcar numa jornada muito desafiadora de estudar algo tão subjetivo como a mente humana, estou no 4º semestre da graduação de psicologia e está sendo mágico!
 
 Caso você que esteja vendo meu perfil e tenha uma oportunidade aderente com minhas experiências e objetivos, o que acha de conversarmos?
+
+##
